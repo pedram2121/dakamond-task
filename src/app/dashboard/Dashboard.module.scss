@@ -1,0 +1,14 @@
+.wrapper {
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+  }
+  
+  .title {
+    color: #fff;
+    font-size: 24px;
+    margin-bottom: 24px;
+    text-align: right;
+  }
+  
